@@ -1,0 +1,36 @@
+body{
+  text-align:  center;
+  background-image: url(/images/pexels-eberhardgross-1287142.jpg);
+  color: white;
+  font-family: "Roboto Mono", serif;
+}
+
+button{
+  padding-left: 35px;
+  padding-right: 35px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-top: 4px;
+  margin-bottom: 4px;
+  border: none;
+  border-radius: 4px;
+  font-family: "Roboto Mono", serif;
+  font-weight: bold;
+  color: white;
+}
+
+.increment-btn{
+  background-color: rgb(0, 52, 206);
+}
+
+.decrement-btn{
+  background-color: rgb(255, 94, 0);
+}
+
+.save-btn{
+  background-color: rgb(0, 154, 0);
+}
+
+p{
+  font-weight: bolder;
+}
